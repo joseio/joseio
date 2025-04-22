@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋🏿
 
-<!--
-**joseio/joseio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### A Full-Stack Developer by day ☼ and an InnerSource Contributor by night ☾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-Stack Developer at [IBM](https://www.ibm.com)<br/>
+M.S. in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu)<br/>
+B.S. in Computer Engineering at the [Georgia Institute of Technology](https://www.gatech.edu)
+
+
+🌐 `sites`: [Opoku Homes](https://opokuhomes.com)<br/>
+💬 `message` me about **real estate**, **architecture**, **open/inner source**
+
+
+### A bit more about me...
+```javascript
+const jonathan = {
+  code: [Python, JavaScript, TypeScript, SQL, Swift, Java],
+  tools: [React Native, React, Angular, Redux, Node, Jest, AWS, Kubernetes],
+  spoken_languages: [Spanish, Mandarin]
+  passion: ["real estate", "solving actual problems"]
+}
+```
