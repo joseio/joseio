@@ -8,7 +8,7 @@ M.S. in Computer Science at the [University of Illinois at Urbana-Champaign](htt
 B.S. in Computer Engineering at the [Georgia Institute of Technology](https://www.gatech.edu)
 
 
-🌐 `website` [Opoku Homes](https://opokuhomes.com)<br/>
+🌐 `websites` [Opoku Homes](https://opokuhomes.com), [Crowdfundme (beta)](https://crowdfundme-demo.netlify.app/)<br/>
 💬 `message` me about **real estate**, **architecture**, **open/inner source**
 
 
